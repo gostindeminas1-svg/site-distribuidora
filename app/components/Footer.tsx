@@ -8,7 +8,7 @@ export default function Footer() {
         </h2>
 
         <p className="text-gray-300 mb-2">
-          São José dos Campos - SP
+          sp
         </p>
 
         <p className="text-gray-300 mb-8">
