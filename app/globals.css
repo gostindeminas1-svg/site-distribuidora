@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+:root {
+  --background: #F2E8D5;
+  --foreground: #2D1E17;
+
+  --color-cream: #F2E8D5;
+  --color-brown: #2D1E17;
+  --color-gold: #C29B40;
+  --color-green: #1B3022;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+}
