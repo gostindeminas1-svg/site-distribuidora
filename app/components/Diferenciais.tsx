@@ -47,7 +47,7 @@ export default function Diferenciais() {
           </span>
 
           <h2 className="text-4xl md:text-5xl font-bold text-[#2D1E17] mt-4">
-            Por que escolher a Distribuidora Mineira?
+            "Por que escolher a Distribuidora Mineira?"
           </h2>
         </div>
 

@@ -8,7 +8,7 @@ export default function Footer() {
         </h2>
 
         <p className="text-gray-300 mb-2">
-          sp
+          São José dos Campos - SP
         </p>
 
         <p className="text-gray-300 mb-8">
@@ -24,7 +24,7 @@ export default function Footer() {
         </a>
 
         <div className="border-t border-gray-700 mt-10 pt-6 text-sm text-gray-400">
-          © 2026 Distribuidora Mineira
+          © 2024 Distribuidora Mineira
         </div>
 
       </div>
