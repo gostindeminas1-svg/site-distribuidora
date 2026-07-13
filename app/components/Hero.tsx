@@ -6,21 +6,21 @@ export default function Hero() {
 
       <div className="relative z-10 text-center px-6 max-w-5xl mx-auto">
 
-        <p className="text-[#C29B40] uppercase tracking-[0.4em] text-sm mb-6 font-semibold">
-          TRADIÇÃO MINEIRA
-        </p>
+        <p className="text-[#C29B40] uppercase tracking-[0.2em] md:tracking-[0.4em] text-xs md:text-sm mb-6 font-semibold">
+  TRADIÇÃO MINEIRA
+</p>
 
-        <h1 className="text-[#F2E8D5] text-6xl md:text-8xl font-black leading-none">
-          DISTRIBUIDORA
-          <br />
-          <span className="text-[#C29B40]">
-            MINEIRA
-          </span>
-        </h1>
+<h1 className="text-[#F2E8D5] text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-black leading-none">
+  DISTRIBUIDORA
+  <br />
+  <span className="text-[#C29B40]">
+    MINEIRA
+  </span>
+</h1>
 
-        <p className="text-[#F2E8D5]/80 text-xl md:text-3xl italic mt-8">
-          O sabor de Minas que faz seu cliente voltar
-        </p>
+<p className="text-[#F2E8D5]/80 text-lg md:text-2xl lg:text-3xl italic mt-8">
+  O sabor de Minas que faz seu cliente voltar
+</p> 
 
       </div>
 
