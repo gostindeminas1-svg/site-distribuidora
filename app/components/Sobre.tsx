@@ -1,6 +1,9 @@
 export default function Sobre() {
   return (
-    <section className="bg-[#F2E8D5] py-24">
+    <section
+      id="sobre"
+      className="bg-[#F2E8D5] py-24"
+    >
 
       <div className="max-w-6xl mx-auto px-6">
 
@@ -63,9 +66,7 @@ export default function Sobre() {
               Pensado para padarias, pizzarias, hamburguerias,
               lanchonetes e revendedores.
             </p>
-<div id="paodequeijo"></div>
-<div id="bacon"></div>
-<div id="batata"></div>
+
           </div>
 
         </div>
