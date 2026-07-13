@@ -39,7 +39,7 @@ ${produto.peso}
 
 Gostaria de receber mais informações e orçamento.`;
 
-                const whatsappLink = `https://wa.me/5512988669667?text=${encodeURIComponent(
+                const whatsappLink = `https://wa.me/5512996168108?text=${encodeURIComponent(
                   mensagem
                 )}`;
 
@@ -50,18 +50,11 @@ Gostaria de receber mais informações e orçamento.`;
                   >
 
                     <img
-                      src={produto.imagem}
-                      style={{
-                        width: "100%",
-                        height:"108px",
-                        objectFit: "cover", 
-                        borderRadius: "10px"
-                      }}
-
-                      />
-                    
-
-                    
+                        src={produto.imagem}
+                       alt={produto.nome}
+                       className="w-full h-72 object-contain bg-white p-4"
+                    />
+           
 
                     <div className="p-6">
 
