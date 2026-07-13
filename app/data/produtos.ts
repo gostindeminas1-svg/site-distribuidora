@@ -8,31 +8,31 @@ export const categorias = [
       {
         nome: "Tradicional",
         peso: "1kg",
-        imagem: "/images/bacon.jpg.jpeg",
+        imagem: "/images/tradicional.jpeg",
       },
 
       {
         nome: "Mini 3 Queijos",
         peso: "1kg",
-        imagem: "/images/queijo fresco.jpeg",
+        imagem: "/images/mini.jpeg",
       },
 
       {
         nome: "Coquetel",
         peso: "1kg",
-        imagem: "/images/queijo fresco.jpeg",
+        imagem: "/images/coquetel.jpeg",
       },
 
       {
         nome: "Super Lanche",
         peso: "1kg",
-        imagem: "/images/queijo fresco.jpeg",
+        imagem: "/images/lanche.jpeg",
       },
 
       {
         nome: "Palitão 3 Queijos",
         peso: "1kg",
-        imagem: "/images/Palitão.jpeg",
+        imagem: "/images/palitao.jpeg",
       },
     ],
   },
