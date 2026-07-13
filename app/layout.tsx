@@ -14,7 +14,7 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: "Distribuidora Mineira",
-  description: "Catálogo B2B de produtos mineiros",
+  description: "Catálogo de produtos mineiros",
 };
 
 export default function RootLayout({

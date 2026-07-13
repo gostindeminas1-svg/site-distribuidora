@@ -39,7 +39,7 @@ ${produto.peso}
 
 Gostaria de receber mais informações e orçamento.`;
 
-                const whatsappLink = `https://wa.me/5512999999999?text=${encodeURIComponent(
+                const whatsappLink = `https://wa.me/5512988669667?text=${encodeURIComponent(
                   mensagem
                 )}`;
 
