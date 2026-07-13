@@ -46,13 +46,13 @@ export const categorias = [
       {
         nome: "Bacon Fatiado",
         peso: "1kg",
-        imagem: "/images/bacon.jpg.jpeg",
+        imagem: "/images/baconfatiado.png",
       },
 
       {
         nome: "Bacon em Cubos",
         peso: "1kg",
-        imagem: "/images/bacon.jpg.jpeg",
+        imagem: "/images/baconcubo.png",
       },
     ],
   },
