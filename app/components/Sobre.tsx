@@ -6,6 +6,9 @@ export default function Sobre() {
 
         <div className="text-center max-w-4xl mx-auto">
 
+          <section id="sobre"></section>
+          <section id="produtos"></section>
+
           <span className="text-[#C29B40] uppercase tracking-[0.3em] font-semibold">
             Quem Somos
           </span>
@@ -60,7 +63,9 @@ export default function Sobre() {
               Pensado para padarias, pizzarias, hamburguerias,
               lanchonetes e revendedores.
             </p>
-
+<div id="paodequeijo"></div>
+<div id="bacon"></div>
+<div id="batata"></div>
           </div>
 
         </div>
