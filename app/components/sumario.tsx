@@ -1,19 +1,41 @@
-<section className="bg-[#F9F6EF] py-4 border-b">
-  <div className="max-w-7xl mx-auto px-6">
-    <div className="flex flex-wrap justify-center gap-6 text-sm font-semibold text-[#2D1E17]">
+export default function Sumario() {
+  return (
+    <section className="bg-white py-4 shadow-sm">
+      <div className="max-w-7xl mx-auto px-4">
 
-      <a href="#sobre">Quem Somos</a>
+        <div className="flex flex-wrap justify-center gap-4">
 
-      <a href="#produtos">Produtos</a>
+          <a
+            href="#paodequeijo"
+            className="bg-[#C29B40] text-[#2D1E17] px-4 py-2 rounded-lg font-bold"
+          >
+            🧀 Pão de Queijo
+          </a>
 
-      <a href="#paodequeijo">Pão de Queijo</a>
+          <a
+            href="#bacon"
+            className="bg-[#C29B40] text-[#2D1E17] px-4 py-2 rounded-lg font-bold"
+          >
+            🥓 Bacon
+          </a>
 
-      <a href="#bacon">Bacon</a>
+          <a
+            href="#batata"
+            className="bg-[#C29B40] text-[#2D1E17] px-4 py-2 rounded-lg font-bold"
+          >
+            🥔 Batata Palha
+          </a>
 
-      <a href="#batata">Batata Palha</a>
+          <a
+            href="#contato"
+            className="bg-[#2D1E17] text-white px-4 py-2 rounded-lg font-bold"
+          >
+            📞 Contato
+          </a>
 
-      <a href="#contato">Contato</a>
+        </div>
 
-    </div>
-  </div>
-</section>
+      </div>
+    </section>
+  );
+}
