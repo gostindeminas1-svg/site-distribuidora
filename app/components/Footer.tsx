@@ -1,6 +1,9 @@
 export default function Footer() {
   return (
     <footer className="bg-[#2D1E17] text-white py-16">
+      id="contato"
+       className="bg-[#2D1E17] text-white py-12" 
+       
       <div className="max-w-6xl mx-auto px-6 text-center">
 
         <h2 className="text-3xl font-bold mb-4">
@@ -29,5 +32,6 @@ export default function Footer() {
 
       </div>
     </footer>
+    
   );
 }
