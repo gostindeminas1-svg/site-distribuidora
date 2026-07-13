@@ -66,13 +66,14 @@ export const categorias = [
       {
         nome: "Batata Boa Tradicional",
         peso: "400g • 500g • 800g • 900g • 1kg",
-        imagem: "/images/batataboa1Kg.jpg",
+        imagem: "/images/batata1kg.jpg",
       },
 
       {
         nome: "Batata Boa StandUp Tradicional",
         peso: "100g",
-        imagem: "/images/batataboa1Kg.jpg",
+        imagem: "/images/batatapalha.png",
+      
       },
 
       {
